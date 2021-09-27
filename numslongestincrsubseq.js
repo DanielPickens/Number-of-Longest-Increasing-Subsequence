@@ -27,3 +27,11 @@ const findNumberOfLIS = function(nums) {
         
         return cnt[n];
     }
+
+
+/*
+Success
+Details 
+Runtime: 104 ms, faster than 82.61% of JavaScript online submissions for Number of Longest Increasing Subsequence.
+Memory Usage: 40.8 MB, less than 53.62% of JavaScript online submissions for Number of Longest Increasing Subsequence.
+*/
